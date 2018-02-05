@@ -17,8 +17,7 @@
 )
 
 ### Check-in Blog Post
-
-	The process of creating my first project was hard and at times frustrating; but ultimately, it was very rewarding. I have never coded before and was very intimidated by the prospect of working with technological languages I did not know how to write. However, as the semester has unfolded, I have become increasingly more comfortable leaning into discomfort and embracing my beginner level skillset. I am determined to work hard and create art through this new medium. I appreciate how the class is structured allowing us students to both learn new technical skills and explore using the software, however, I think I am at such a beginning level that I need more guidance when it comes to learning the technical skills. My plan of attack moving forward is to spend more time reading the book Make: Getting Started with p5.js and coming to office hours on Tuesdays to ask any questions I may have concerning the software and the week’s assignment. 
+	The process of creating my first project was hard and at times frustrating but ultimately, it was very rewarding. I have never coded before and was very intimidated by the prospect of working with technological languages I did not know how to write. However, as the semester has unfolded, I have become increasingly more comfortable leaning into discomfort and embracing my beginner level skillset. I am determined to work hard and create art through this new medium. I appreciate how the class is structured allowing us students to both learn new technical skills and explore using the software, however, I think I am at such a beginning level that I need more guidance when it comes to learning the technical skills. My plan of attack moving forward is to spend more time reading the book Make Getting Started with p5.js and coming to office hours on Tuesdays to ask any questions I may have concerning the software and the week’s assignment. 
 
 
 
