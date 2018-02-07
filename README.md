@@ -16,7 +16,28 @@
 [Here's a link to the piece](http://www.creativeapplications.net/environment/pixi-nature-aware-self-sufficient-digital-organism-breathes-in-the-forest/)
 
 ### Check-in Blog Post
-	The process of creating my first project was hard and at times frustrating but ultimately, it was very rewarding. I have never coded before and was very intimidated by the prospect of working with technological languages I did not know how to write. However, as the semester has unfolded, I have become increasingly more comfortable leaning into discomfort and embracing my beginner level skillset. I am determined to work hard and create art through this new medium. I appreciate how the class is structured allowing us students to both learn new technical skills and explore using the software, however, I think I am at such a beginning level that I need more guidance when it comes to learning the technical skills. My plan of attack moving forward is to spend more time reading the book Make Getting Started with p5.js and coming to office hours on Tuesdays to ask any questions I may have concerning the software and the week’s assignment. 
+
+	The process of creating my first project was hard and at times frustrating but ultimately, it was very rewarding I have never coded before and was very intimidated by the prospect of working with technological languages I did not know how to write. However, as the semester has unfolded, I have become increasingly more comfortable leaning into discomfort and embracing my beginner level skillset. I am determined to work hard and create art through this new medium. I appreciate how the class is structured allowing us students to both learn new technical skills and explore using the software, however, I think I am at such a beginning level that I need more guidance when it comes to learning the technical skills. My plan of attack moving forward is to spend more time reading the book Make Getting Started with p5.js and coming to office hours on Tuesdays to ask any questions I may have concerning the software and the week’s assignment. 
 
 
+### Chance Art Piece 1
+
+![Black Boogie Woogie ](images/larger.jpg "Black Boogie Woogie")
+
+Hanibal Srouji is the artist of this piece, Black Boogie Woogie. Srouji is from Lebanese and is based in Beirut. I was drawn to this piece integrating chance because it utilizes both technology and canvas to create a piece that evokes emotion and a sense of inner peace. This piece incorporates chance through its multicolored neon lights and the contrast between the hot, red and the colder, blue is beautiful and stark. Usually, I am drawn to art pieces that make me reflect on the relationship between technology and nature and I think art is a powerful mechanism to explore that relationship. 
+
+
+[Here's a link to the piece]
+(https://www.artsy.net/artwork/hanibal-srouji-black-boogie-woogie-i)
+
+
+### Chance Art Piece 2
+
+![Le Bois](images/larger-1.jpg "Le Bois")
+The artist, Martin Reyna, created this piece titled, Le Bois. Reyna is from Argentina but is based in Paris. I was drawn to this piece because the colors and free movement of the shapes are simple yet dramatic in their course of action. I think her use of chance is reflected in the random shape of the colors on the canvas. While this painting does not utilize technology or algorithms (to my knowledge), I think the concept of chance reflected in the art piece can be applied to a code in which shapes take on courses of their own through a programming code that gives the shapes/colors a life of their own. 
+
+
+
+[Here's a link to the piece]
+(https://www.artsy.net/artwork/martin-reyna-le-bois)
 
