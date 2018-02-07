@@ -16,15 +16,15 @@
 [Here's a link to the piece](http://www.creativeapplications.net/environment/pixi-nature-aware-self-sufficient-digital-organism-breathes-in-the-forest/)
 
 ### Check-in Blog Post
-
 	The process of creating my first project was hard and at times frustrating but ultimately, it was very rewarding I have never coded before and was very intimidated by the prospect of working with technological languages I did not know how to write. However, as the semester has unfolded, I have become increasingly more comfortable leaning into discomfort and embracing my beginner level skillset. I am determined to work hard and create art through this new medium. I appreciate how the class is structured allowing us students to both learn new technical skills and explore using the software, however, I think I am at such a beginning level that I need more guidance when it comes to learning the technical skills. My plan of attack moving forward is to spend more time reading the book Make Getting Started with p5.js and coming to office hours on Tuesdays to ask any questions I may have concerning the software and the week’s assignment. 
+
 
 
 ### Chance Art Piece 1
 
 ![Black Boogie Woogie ](images/larger.jpg "Black Boogie Woogie")
 
-Hanibal Srouji is the artist of this piece, Black Boogie Woogie. Srouji is from Lebanese and is based in Beirut. I was drawn to this piece integrating chance because it utilizes both technology and canvas to create a piece that evokes emotion and a sense of inner peace. This piece incorporates chance through its multicolored neon lights and the contrast between the hot, red and the colder, blue is beautiful and stark. Usually, I am drawn to art pieces that make me reflect on the relationship between technology and nature and I think art is a powerful mechanism to explore that relationship. 
+Hanibal Srouji is the artist of this piece, Black Boogie Woogie. Srouji is from Lebanon and is based in Beirut currently. I was drawn to this piece integrating chance because it utilizes both technology and canvas to create a piece that evokes emotion and a sense of inner peace. This piece incorporates chance through its multicolored neon light and the contrast created between the hot, red and the colder,blue is beautiful and stark. Usually, I am drawn to art pieces that make me reflect on the relationship between technology and nature and I think art is a powerful mechanism to explore that relationship. 
 
 
 [Here's a link to the piece]
