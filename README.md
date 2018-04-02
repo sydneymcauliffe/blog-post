@@ -70,3 +70,21 @@ The art piece, Fleshmap, uses data visualization to express human desire through
 I was drawn to this piece because of it's intimate nature. Often times I associate concepts such as technology and data visualization as being far removed from the human body and even more so removed from the intimate experiences of the human body. The piece Fleshmap challenges my previous notions by helping me see a connection between technology and the human body. The data visualization component allowed for the connection to be presented in such a way that is moving and truly beautiful. 
 
 [Here's a link to the piece](http://www.bewitched.com/fleshmap.html)
+
+## Connecting things blog post 1
+
+![Wind and Wave](images/wind.png "Wind and Wave")
+
+The art piece Wind and Wave is a Physical Media Installation that uses both fan and light to create a breathtaking installation. The art piece is made from a white cloth fabric that is tied to the walls of a small interior room. The art piece appears blue because of variously hidden light fixtures in the room and moves because of hidden fans in the room. While the website displaying the physical computing art does not explain how technology is specifically utilized in this piece, I am nonetheless inspired by the piece and its ability to transform technology and seemingly ordinary objects into art. My favorite aspect of the art installation is its calming nature, replicating both wind and waves. 
+
+[Here's a link to the piece](http://themo-on.com/2015/10/23/wind-and-wave-nepa-concept-show/?ckattempt=1)
+
+## Connecting things blog post 2
+
+![Radical signs of life ](images/rad.png "Radical signs of life")
+
+The art piece radical is an interactive dance performance that explores self-organizing systems. Music is generated from dancers' muscles and blood flow through biophysical sensors that capture sound waves from dancers' bodies. The data collected creates beautiful and complex neural patterns that are displayed on screens as 3D images. The piece engages its audience by allowing the audience to interact with the images produced and enter into a dialogue with the dancers. The piece is somewhat revolutionary as it is one of the first large-scale art pieces to use biotechnology and network bodies with interactive dance. The piece also utilizes music produced by artists from around the world as well as dancers who participate in real time by following movements from a shared movement database of choreography. The dancers wear two sensors that measure their blood flow and muscle movement.
+
+This piece is incredibly complex. I am blown away by the intricate design and execution of all the components of the piece. I love how this piece brings together many different teams with varying skillsets to work together and produce something daring and bold. To me, this art piece represents the art of the future. I am excited to continue to explore more physical computing pieces to compare them to the two pieces I have already written about in this blog. 
+
+[Here's a link to the piece](http://generactive.net/radical-signs-of-life/)
